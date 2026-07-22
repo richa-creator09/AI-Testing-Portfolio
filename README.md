@@ -2,7 +2,7 @@
 
 Welcome!
 
-I'm **Richa Srivastava**, a Software Test Consultant with 12+ years of experience in Functional Testing, API Testing, System Testing, Integration Testing, and Telecom & Tax Domain applications.
+I'm **Richa Srivastava**, a Software Test Consultant with 13 years of experience in Functional Testing, API Testing, System Testing, Integration Testing, Data Focused Testing and Telecom & Revenue Administration Domain applications.
 
 After completing the **Elements of AI** course from the University of Helsinki, I started exploring AI Testing and Prompt Engineering to understand how Artificial Intelligence can improve software quality.
 
